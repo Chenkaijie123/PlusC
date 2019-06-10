@@ -1,9 +1,7 @@
-import {father} from "./father"
-class Index extends father{
+
+class Index {
     constructor(){
-        super();
-        console.log(father)
-        console.log(window)
+
     }
 }
 
